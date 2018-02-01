@@ -1,0 +1,20 @@
+.sqButton {
+    font-size: 1.5em;
+    color: rgb(58, 26, 220);
+}
+
+.sqContainer {
+    display: inline-block;
+    border: 2px solid rgb(121, 17, 17);
+    background-color: dodgerblue;
+    padding: 10px;
+    margin: 5px;
+    width: 50px;
+    height: 50px;
+    
+}
+
+p {
+    color: black;
+    text-align: center;
+}
